@@ -1,2 +1,5 @@
-# Alurinha
-Projeto em HTML e CSS de uma página responsiva  focada na prática de Flexbox
+<h1 align = "center">
+  :construction: :construction: :construction: 
+  Projeto em desenvolvimento 
+  :construction: :construction: :construction: 
+</h1>
