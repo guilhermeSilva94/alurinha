@@ -37,3 +37,33 @@
     flex-flow: column wrap;
     height: 255px;
 }
+
+.conteudoPrincipal-cursos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.conteudoPrincipal-cursos-link {
+    width: 20%;
+}
+
+.videoSobre .container {
+    display: flex;
+}
+
+.videoSobre-video {
+    width: 40%;
+    margin-right: 10%;
+}
+
+.videoSobre-sobre {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    width: 50%;
+}
+
+.videoSobre-button {
+    width: 100%;
+}
