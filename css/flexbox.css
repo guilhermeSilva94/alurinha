@@ -70,14 +70,43 @@
 
 /* Parte mobile */
 
-@media only screen and (max-width : 400px) {
+@media only screen and (max-width : 420px) {
     .cabecalhoPrincipal .container {
         display: inline-block;
         text-align: center;
+        margin: 0% 3%;
     }
 
     .cabecalhoPrincipal-nav {
         flex-direction: column;
+    }
+
+    .conteudoPrincipal-cursos {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .conteudoPrincipal-cursos-link {
+        width: 100%;
+    }
+
+    .videoSobre .container {
+        flex-direction: column;
+    }
+
+    .videoSobre-video {
+        width: 100%;
+        margin: 0;
+    }
+
+    .videoSobre-sobre {
+        width: 100%;
+        margin-top: 10%;
+    }
+
+    .videoSobre-button {
+        width: 100%;
+        margin-top: 10%;
     }
 
 }
