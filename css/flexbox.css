@@ -109,5 +109,22 @@
         margin-top: 10%;
     }
 
+    .rodapePrincipal-navMap-list {
+        height: 100%;
+    }
+
+    .rodapePrincipal-patrocinadores .container{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .rodapePrincipal-patrocinadores-list {
+        width: 100%;
+    }
+
+    .rodapePrincipal-contatoForm {
+        width: auto;
+    }
+
 }
 
