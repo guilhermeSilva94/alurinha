@@ -71,6 +71,10 @@
 /* Parte mobile */
 
 @media only screen and (max-width : 768px) {
+    .cabecalhoPrincipal-nav-link-app {
+        order: -1;
+    }
+
     .cabecalhoPrincipal .container {
         display: inline-block;
         text-align: center;
