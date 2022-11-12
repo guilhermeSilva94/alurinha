@@ -67,3 +67,18 @@
 .videoSobre-button {
     width: 100%;
 }
+
+/* Parte mobile */
+
+@media only screen and (max-width : 400px) {
+    .cabecalhoPrincipal .container {
+        display: inline-block;
+        text-align: center;
+    }
+
+    .cabecalhoPrincipal-nav {
+        flex-direction: column;
+    }
+
+}
+
